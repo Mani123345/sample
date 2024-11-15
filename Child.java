@@ -1,6 +1,8 @@
 package org.basic;
 
 public class Child extends Parent {
+
+	//to check the push action is done or not
 	public Child() {
 		this(10);
 		System.out.println("default Child");
